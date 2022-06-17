@@ -7,6 +7,9 @@ make install
 ```
 
 ## Run the Simulation
+Before running this directive make sure that you have created `./data/balance`, `./data/leader_election` and `./data/leader_election_simulation` directories in order to be able to store the simulation results.
+
+```
 
 ```
 make run
